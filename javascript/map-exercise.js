@@ -5,3 +5,4 @@ const habits = [
 ];
 
 // Resolve using ternary operator and destructuring
+// OUT: [ 'Meditation ok', 'Gym not ok', 'Study ok' ]
